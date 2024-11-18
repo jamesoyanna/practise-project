@@ -1,0 +1,101 @@
+{
+  "hash": "78736d19",
+  "browserHash": "b18d09a3",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a0359608",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "73dca8af",
+      "needsInterop": true
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/es/index.js",
+      "file": "react-redux.js",
+      "fileHash": "f265c88a",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "f8a6d526",
+      "needsInterop": false
+    },
+    "redux-persist/integration/react": {
+      "src": "../../node_modules/redux-persist/es/integration/react.js",
+      "file": "redux-persist_integration_react.js",
+      "fileHash": "21116564",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.esm.js",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "d24fffee",
+      "needsInterop": false
+    },
+    "redux-persist": {
+      "src": "../../node_modules/redux-persist/es/index.js",
+      "file": "redux-persist.js",
+      "fileHash": "981bcf0c",
+      "needsInterop": false
+    },
+    "redux-persist/lib/storage": {
+      "src": "../../node_modules/redux-persist/lib/storage/index.js",
+      "file": "redux-persist_lib_storage.js",
+      "fileHash": "175c6596",
+      "needsInterop": true
+    },
+    "redux": {
+      "src": "../../node_modules/redux/es/redux.js",
+      "file": "redux.js",
+      "fileHash": "528c9d9b",
+      "needsInterop": false
+    },
+    "dayjs/locale/en": {
+      "src": "../../node_modules/dayjs/locale/en.js",
+      "file": "dayjs_locale_en.js",
+      "fileHash": "1380af96",
+      "needsInterop": true
+    },
+    "miragejs": {
+      "src": "../../node_modules/miragejs/dist/mirage-esm.js",
+      "file": "miragejs.js",
+      "fileHash": "c9bf2d67",
+      "needsInterop": false
+    },
+    "lodash/uniqueId": {
+      "src": "../../node_modules/lodash/uniqueId.js",
+      "file": "lodash_uniqueId.js",
+      "fileHash": "365ee0e6",
+      "needsInterop": true
+    },
+    "lodash/isEmpty": {
+      "src": "../../node_modules/lodash/isEmpty.js",
+      "file": "lodash_isEmpty.js",
+      "fileHash": "6e9445e4",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-LOVOU5HP": {
+      "file": "chunk-LOVOU5HP.js"
+    },
+    "chunk-RVSLBP3T": {
+      "file": "chunk-RVSLBP3T.js"
+    },
+    "chunk-ST3U5LCA": {
+      "file": "chunk-ST3U5LCA.js"
+    },
+    "chunk-QATEURQD": {
+      "file": "chunk-QATEURQD.js"
+    },
+    "chunk-DFKQJ226": {
+      "file": "chunk-DFKQJ226.js"
+    }
+  }
+}
